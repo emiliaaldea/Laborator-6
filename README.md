@@ -1,1 +1,1 @@
-# Larobator6
+# Laborator6
