@@ -1,0 +1,21 @@
+body {background-color:yellow;}
+h1 {color:red;}
+p {font name: "Arial";
+    font-size: 20px;}
+    
+img.ai {border: 2px solid black;
+    border-radius:12px;
+	width: 150px;
+    display: block;	
+    padding: 2px;
+	margin:left;
+    opacity: 0.4;}
+   
+id.titluCat {{border: 3px solid black;
+    border-radius:12px;
+	width: 35px;
+    display: block;	
+	margin:auto;
+	color: red;
+    opacity: 0.6;}
+
